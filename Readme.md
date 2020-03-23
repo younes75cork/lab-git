@@ -1,4 +1,4 @@
-# TP 1 : Git
+# TP Git
 
 ## Instructions
 Les réponses aux questions posées dans cet énoncé doivent être soumises sous forme d'issue GitHub au sein de votre copie de repository. 
